@@ -110,6 +110,10 @@ High quantity doesn't equal high profitability—product pricing and cost contro
 :white_check_mark: Train teams on understanding gross margin per product and per client. Encourage selling strategies that align with profit growth.
 
 
+## :pushpin: Conclusion
+With targeted pricing strategies, customer segmentation, and operational refinement, backed by the dynamic Tableau dashboard, 
+Vertex-Hub is well-positioned to enhance its competitive edge, maximize profits, and unlock new avenues for market expansion.
+
 <img width="600" height="200" alt="Thank you" src="https://github.com/user-attachments/assets/955381b1-4118-4378-8d76-cabefa7c077b" />
 
 
