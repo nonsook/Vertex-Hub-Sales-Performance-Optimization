@@ -28,28 +28,48 @@ Finally, I combined the charts in a Dashboard for a comprehensive view.
 
 ## :bar_chart: Dashboards
 
-<img width="1620" height="792" alt="Vertex dash1" src="https://github.com/user-attachments/assets/25e5a8de-31ce-4284-aa9d-b0e22d91f0bc" />
-<img width="1622" height="792" alt="Vertex dash 2" src="https://github.com/user-attachments/assets/e60efc86-b2a9-4e79-ba0f-2ec0b1dc49ce" />
+<img width="1622" height="792" alt="image" src="https://github.com/user-attachments/assets/83f98324-ac29-4a9a-9d56-c7914a6998d3" />
+
+<img width="1622" height="792" alt="Vertex dash 2 $" src="https://github.com/user-attachments/assets/081b4da5-d7ae-45ef-a50f-0b6796276d20" />
+
 
 ## :bulb: Insights Uncovered
 
 **Sales by Region:**
+
 •	West leads significantly with a total sales of $107.48K and total profit of $19.66k for the four years in view. 
 (It has also maintained this lead each year, except in 2016 where they made huge sales but very little profit).
-•	Followed by East with total sales of $41.71K and total profit of $4.98k 
+
+•	Followed by East with total sales of $41.71K and total profit of $4.98k
+
 •	South made total sales of $17.31K and total profit of $2.22k.
+
 •	Central performed the least with total sales of $14.01K with no profit and a loss of $3.63k.
 
 The West drives nearly 60% of company-wide sales. Other regions have potential, but need support.
 
 **Sales by Category:**
+
 •	Technology: $72.71K, Profit: $14.00K (Highest)
+
 •	Furniture: $59.22K, Profit: $2.34K 
+
 •	Office Supplies: $48.58K, Profit: $6.89K
 
 
 Technology is the strongest contributor to profit and sales.
 Furniture and Office Supplies, while generating decent revenue, have much lower profit margins, especially Furniture.
+
+**Sales Over Time**
+
+Overall Sales peaked in March ($22.22k), September ($29.48K) and December ($25.64K) with September accounting for the highest total sales. 
+
+There was a significant drop in profit in 2016 ($2.61k) when compared with 2015 ($4.42k), despite having similar amount of sales. 
+
+2017 recorded the best performance across all KPIs (sales, profit, quantity sold, orders and total customers).
+
+Sales appears to be seasonal — optimize inventory and marketing around these peaks.
+
 
 
 
