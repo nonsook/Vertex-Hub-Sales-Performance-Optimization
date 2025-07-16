@@ -28,7 +28,8 @@ Finally, I combined the charts in a Dashboard for a comprehensive view.
 
 ## :bar_chart: Dashboards
 
-<img width="1622" height="792" alt="image" src="https://github.com/user-attachments/assets/83f98324-ac29-4a9a-9d56-c7914a6998d3" />
+<img width="1620" height="790" alt="Vetex dash1 $" src="https://github.com/user-attachments/assets/29374025-18ac-4d3c-97ab-c2f3e540d783" />
+
 
 <img width="1622" height="792" alt="Vertex dash 2 $" src="https://github.com/user-attachments/assets/081b4da5-d7ae-45ef-a50f-0b6796276d20" />
 
@@ -69,6 +70,8 @@ There was a significant drop in profit in 2016 ($2.61k) when compared with 2015 
 2017 recorded the best performance across all KPIs (sales, profit, quantity sold, orders and total customers).
 
 Sales appears to be seasonal — optimize inventory and marketing around these peaks.
+
+
 
 
 
