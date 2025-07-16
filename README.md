@@ -38,24 +38,24 @@ Finally, I combined the charts in a Dashboard for a comprehensive view.
 
 **Sales by Region:**
 
-•	West leads significantly with a total sales of $107.48K and total profit of $19.66k for the four years in view. 
+- West leads significantly with a total sales of $107.48K and total profit of $19.66k for the four years in view. 
 (It has also maintained this lead each year, except in 2016 where they made huge sales but very little profit).
 
-•	Followed by East with total sales of $41.71K and total profit of $4.98k
+- Followed by East with total sales of $41.71K and total profit of $4.98k
 
-•	South made total sales of $17.31K and total profit of $2.22k.
+- South made total sales of $17.31K and total profit of $2.22k.
 
-•	Central performed the least with total sales of $14.01K with no profit and a loss of $3.63k.
+- Central performed the least with total sales of $14.01K with no profit and a loss of $3.63k.
 
 The West drives nearly 60% of company-wide sales. Other regions have potential, but need support.
 
 **Sales by Category:**
 
-•	Technology: $72.71K, Profit: $14.00K (Highest)
+- Technology: $72.71K, Profit: $14.00K (Highest)
 
-•	Furniture: $59.22K, Profit: $2.34K 
+- Furniture: $59.22K, Profit: $2.34K 
 
-•	Office Supplies: $48.58K, Profit: $6.89K
+- Office Supplies: $48.58K, Profit: $6.89K
 
 
 Technology is the strongest contributor to profit and sales.
@@ -63,13 +63,54 @@ Furniture and Office Supplies, while generating decent revenue, have much lower 
 
 **Sales Over Time**
 
-Overall Sales peaked in March ($22.22k), September ($29.48K) and December ($25.64K) with September accounting for the highest total sales. 
+- Overall Sales peaked in March ($22.22k), September ($29.48K) and December ($25.64K) with September accounting for the highest total sales. 
 
-There was a significant drop in profit in 2016 ($2.61k) when compared with 2015 ($4.42k), despite having similar amount of sales. 
+- There was a significant drop in profit in 2016 ($2.61k) when compared with 2015 ($4.42k), despite having similar amount of sales. 
 
-2017 recorded the best performance across all KPIs (sales, profit, quantity sold, orders and total customers).
+- 2017 recorded the best performance across all KPIs (sales, profit, quantity sold, orders and total customers).
 
-Sales appears to be seasonal — optimize inventory and marketing around these peaks.
+- Sales appears to be seasonal. Optimize inventory and marketing around these peaks.
+
+
+**Customer Sales Table**
+
+- Top customer by sales was Raymond Buch: $14,052.48 (Profit: $6,734.47).
+
+- Luke Foster accounted for the poorest performance with sales of $2,656.72 and a loss of $3,791.16.
+
+- Some low-sale customers are generating better margins than high-sale ones.
+
+- It is also noteworthy that several customers generated losses despite moderate to high sales.
+
+🔎 **Observation:** The company is most likely overspending on fulfillment or offering heavy discounts that erode margins.
+
+High quantity doesn't equal high profitability—product pricing and cost control matter more.
+
+
+## :rocket: Business Recommendations 
+
+:white_check_mark: Prioritize Technology in sales strategy. Increase focus on Technology products via bundled offers, higher visibility in marketing campaigns, and extended product lines. 
+
+:white_check_mark: Revise pricing structure, particularly in Furniture and Office Supplies. Consider minimum margin enforcement.
+
+:white_check_mark: Retain and reward high-profit, high-sales customers. Introduce loyalty programs.
+
+:white_check_mark: Investigate pricing, discounting, or product mix for high sales, low/negative profit customers.
+
+:white_check_mark: Upsell or expand engagement for low-sales, high-margin customers.
+
+:white_check_mark: Perform root cause analysis on customers with significant losses. Explore cost of goods sold (COGS), shipping or fulfillment cost overruns, discounting or return policies.
+
+:white_check_mark: Scale operations in the West region, which drives the most revenue. Target the East region for next-phase growth via campaigns or regional partnerships.
+
+:white_check_mark: Investigate the Central region that has consistently made little or no profit over the years. Restructure or phase out non-performing products.
+
+:white_check_mark: Add conditional logic in dashboards or ERP to flag orders with zero or negative profit in real time.
+
+:white_check_mark: Train teams on understanding gross margin per product and per client. Encourage selling strategies that align with profit growth.
+
+
+
 
 
 
